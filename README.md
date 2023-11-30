@@ -34,7 +34,7 @@
 
 ### GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/andrey-kotelnikov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-kotelnikov&layout=compact)](https://github.com/andrey-kotelnikov/github-readme-stats)
 
 
 
